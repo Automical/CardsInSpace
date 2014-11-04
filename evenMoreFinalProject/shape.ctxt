@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=g2
+comment0.target=void\ draw(java.awt.Graphics2D)
+comment1.params=g2
+comment1.target=void\ erase(java.awt.Graphics2D)
+comment2.params=
+comment2.target=void\ tick()
+numComments=3

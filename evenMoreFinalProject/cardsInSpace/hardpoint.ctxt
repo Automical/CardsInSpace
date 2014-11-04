@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ destroy()
+comment1.params=
+comment1.target=void\ repair()
+comment10.params=
+comment10.target=double\ returnAttackRate()
+comment11.params=
+comment11.target=int\ returnInstallTime()
+comment2.params=
+comment2.target=boolean\ getState()
+comment3.params=newType
+comment3.target=void\ editType(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getType()
+comment5.params=
+comment5.target=java.lang.String\ getName()
+comment6.params=a
+comment6.target=void\ editAttack(double)
+comment7.params=ar
+comment7.target=void\ editAttackRate(double)
+comment8.params=time
+comment8.target=void\ editInstallTime(int)
+comment9.params=
+comment9.target=double\ returnAttack()
+numComments=12

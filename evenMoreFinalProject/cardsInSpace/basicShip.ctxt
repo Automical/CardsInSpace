@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=name
+comment0.target=basicShip(java.lang.String)
+comment1.params=damage
+comment1.target=double\ scaleDamage(double)
+comment1.text=\n\ \ \ \ public\ double\ scaleDamage(double\ damage)\n\ \ \ \ {\n\ \ \ \ \ \ \ \ return\ damage\ -\ (damage\ *\ getTotalDefense());\n\ \ \ \ }\n
+numComments=2

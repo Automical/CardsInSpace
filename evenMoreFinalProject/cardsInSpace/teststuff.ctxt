@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=teststuff()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ teststuff\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ \ \ \ public\ static\ void\ main(String\ args[])\n\ \ \ \ {\n\ \ \ \ \ \ \ \ dblList\ \=\ new\ ArrayList<String>();\n\ \ \ \ \ \ \ \ dblList.add(new\ String("The"));\n\ \ \ \ \ \ \ \ System.out.println(""\ +\ dblList.get(0)\ +\ "");\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ dblList.set(0,\ dblList.get(0).concat("cat"));\n\ \ \ \ \ \ \ \ System.out.println(""\ +\ dblList.get(0)\ +\ "");\n\ \ \ \ }\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\n\ \n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \n
+numComments=3

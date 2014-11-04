@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=addHardPoint()
+comment1.params=
+comment1.target=hardpoint\ pickRandomHardpointType()
+comment2.params=
+comment2.target=void\ mainAction()
+numComments=3

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=tX\ tY\ sX\ sY
+comment0.target=box(double,\ double,\ double,\ double)
+comment1.params=g2
+comment1.target=void\ draw(java.awt.Graphics2D)
+comment2.params=g2
+comment2.target=void\ erase(java.awt.Graphics2D)
+comment3.params=
+comment3.target=void\ tick()
+numComments=4

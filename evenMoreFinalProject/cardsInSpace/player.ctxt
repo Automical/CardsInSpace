@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=tmpName\ mainD
+comment0.target=player(java.lang.String,\ Deck)
+comment1.params=recDeck\ index
+comment1.target=void\ pickACard(Deck,\ int)
+comment1.text=\n\ \ \ \ public\ void\ initPlayer()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ playerDeck.fillDeck();\n\ \ \ \ \ \ \ \ playerDeck.shuffle(5);\n}
+comment2.params=index\ p2
+comment2.target=void\ playCard(int,\ player)
+comment3.params=
+comment3.target=Deck\ getPlayerDeck()
+comment4.params=
+comment4.target=ship\ getShip()
+numComments=5
